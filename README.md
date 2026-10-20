@@ -4,7 +4,7 @@
  
 Remediation scripts for the DISA Microsoft Windows 11 STIG, **V2R11** (30 Sep 2026).
  
-This table links each STIG ID to its matching remediation script and the screenshot folder used to capture pass/fail/remediation validation evidence.
+This table links each STIG ID to its matching remediation script and the screenshot folder used to capture pass/fail remediation evidence.
  
 | STIG ID | Remediation Powershell Script | Pass/Fail Audit | Description |
 | --- | --- | --- | --- |
