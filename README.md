@@ -21,13 +21,13 @@ This table links each STIG ID to its matching remediation script and the screens
 | WN11-SO-000145 | [Powershell Script](scripts/WN11-SO-000145.ps1) | Already Compliant | Blocks anonymous enumeration of SAM accounts. |
 | WN11-SO-000165 | [Powershell Script](scripts/WN11-SO-000165.ps1) | Already Compliant | Restricts anonymous access to named pipes and shares. |
 | WN11-SO-000270 | [Powershell Script](scripts/WN11-SO-000270.ps1) | Already Compliant | Keeps UAC Admin Approval Mode enabled for all administrators. |
- 
+
+ >STIGs marked "Already Compliant" have been updated to reflect system settings now baseline in Windows 11 25H2 installations.
+
 ## Script conventions
  
 Every script runs from an elevated PowerShell session and supports:
  
 - `-AuditOnly` reports the current state and changes nothing
 - `-WhatIf` previews the change
-- `-Rollback` restores the value saved before remediation (backups are written to `%ProgramData%\STIG-Backups`)
-
->STIGs marked "Already Compliant" have been updated to reflect system settings now baseline in Windows 11 25H2 installations. 
+- `-Rollback` restores the value saved before remediation (backups are written to `%ProgramData%\STIG-Backups`) 
