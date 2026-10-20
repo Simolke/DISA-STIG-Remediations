@@ -16,7 +16,7 @@
     Severity        : CAT I (high)
 
 .TESTED ON
-    Date(s) Tested  : 10/19/2026
+    Date(s) Tested  : 2026-10-19
     Tested By       : Zach Simolke
     Systems Tested  : Windows 11 Pro
     PowerShell Ver. :
