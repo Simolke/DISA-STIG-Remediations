@@ -29,3 +29,5 @@ Every script runs from an elevated PowerShell session and supports:
 - `-AuditOnly` reports the current state and changes nothing
 - `-WhatIf` previews the change
 - `-Rollback` restores the value saved before remediation (backups are written to `%ProgramData%\STIG-Backups`)
+
+>STIGs marked "Already Compliant" have been updated to reflect system settings now baseline in Windows 11 25H2 installations. 
