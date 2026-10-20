@@ -8,7 +8,7 @@ This table links each STIG ID to its matching remediation script and the screens
  
 | STIG ID | Remediation Powershell Script | Pass/Fail/Remediation | Description |
 | --- | --- | --- | --- |
-| WN11-00-000150 | [Powershell Script](scripts/WN11-00-000150.ps1) | Pending validation | Enables SEHOP to block structured exception handler overwrite exploits. |
+| WN11-00-000150 | [Powershell Script](scripts/WN11-00-000150.ps1) | Pass | Enables SEHOP to block structured exception handler overwrite exploits. |
 | WN11-CC-000165 | [Powershell Script](scripts/WN11-CC-000165.ps1) | Pending validation | Blocks unauthenticated RPC clients from connecting to the RPC server. |
 | WN11-CC-000190 | [Powershell Script](scripts/WN11-CC-000190.ps1) | Pending validation | Turns off AutoPlay on all drive types. |
 | WN11-CC-000270 | [Powershell Script](scripts/WN11-CC-000270.ps1) | Pending validation | Prevents passwords from being saved in the Remote Desktop client. |
