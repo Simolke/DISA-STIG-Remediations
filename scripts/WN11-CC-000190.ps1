@@ -4,7 +4,7 @@
 
 .NOTES
     Author          : Zach Simolke
-    GitHub          : [Your GitHub URL]
+    GitHub          : https://github.com/Simolke
     Date Created    : 2026-10-19
     Last Modified   : 2026-10-19
     Version         : 1.0
