@@ -3,9 +3,8 @@
     Requires SMB server packet signing at all times (WN11-SO-000120).
 
 .NOTES
-    Author          : [Your Name]
-    LinkedIn        : [Your LinkedIn URL]
-    GitHub          : [Your GitHub URL]
+    Author          : Zach Simolke
+    GitHub          : https://github.com/Simolke
     Date Created    : 2026-10-19
     Last Modified   : 2026-10-19
     Version         : 1.0
@@ -17,9 +16,9 @@
     Severity        : CAT II (medium)
 
 .TESTED ON
-    Date(s) Tested  :
-    Tested By       :
-    Systems Tested  :
+    Date(s) Tested  : 2026-10-19
+    Tested By       : Zach Simolke
+    Systems Tested  : Windows 11 Pro
     PowerShell Ver. :
 
 .USAGE
